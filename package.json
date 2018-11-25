@@ -1,0 +1,21 @@
+{
+  "name": "ethereum-datetime",
+  "version": "1.0.0",
+  "description": "Contract which implements utilities for working with datetime values in ethereum.",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonahGroendal/ethereum-datetime.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JonahGroendal/ethereum-datetime/issues"
+  },
+  "homepage": "https://github.com/JonahGroendal/ethereum-datetime#readme"
+}
